@@ -36,8 +36,8 @@ III. Three
 
 [Arewa Data Science Website](http://github.com/arewadatascience/python-programming)
 
-a. One
+# Code and synthax
 
-b. Two
-
-c. Three
+# Table
+| Name | Role|Department |
+|------|-----|-----------|
