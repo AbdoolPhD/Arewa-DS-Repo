@@ -7,6 +7,7 @@ welcome to my repo
 #### Heading Four
 *this text will be italic*
 **this text will be boldes**
+_**this text will be bold and italic**_
 
 # List
 - Number 1
