@@ -39,5 +39,10 @@ III. Three
 # Code and synthax
 
 # Table
-| Name | Role|Department |
-|------|-----|-----------|
+| Name        | Role     |Department |
+|------------ |----------|-----------|
+| Abdullahi   | Registrar| General   |
+| Ahmad       | Exzminer | General   |
+
+# List
+- 
