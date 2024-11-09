@@ -12,3 +12,9 @@ welcome to my repo
 - Number1
 - Number 2
 - Number 3
+
+Ordered list
+1. first
+2. Two
+3. Three
+4. Four
